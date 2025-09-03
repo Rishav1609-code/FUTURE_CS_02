@@ -7,6 +7,7 @@ The task involves using Splunk to investigate failed login attempts from sample 
 ## 📂 Repository Structure
 ```/Report``` → Final Report (DOCX/PDF)<br>
 ```/Screenshots``` → Evidence vectors<br>
+```/Data``` → logs<br>
 ```/README.md``` → Project overview<br>
 
 ## 📬 Author
